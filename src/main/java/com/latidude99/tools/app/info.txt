@@ -11,8 +11,8 @@
 ***********      be listed with extensions (.txt, .pdf etc.)                            **********
 ***********                                                                              **********
 ***********      The content of the result ZIP file include                              **********
-***********      this file: FolderBackupTool_v0.2a.bat                                   **********
-***********      and the original: FolderBackupTool_v0.2a.jar                            **********
+***********      this file: FolderBackupTool_vX.X.bat                                   **********
+***********      and the original: FolderBackupTool_vX.X.jar                            **********
 ***********      (this can be altered if needed)                                         **********
 ***********                                                                              **********
 ***********      The name of the ZIP file is composed of:                                **********

@@ -88,3 +88,5 @@ Apache Lucene
 #############################
 dataindexdefault/
 
+src/main/resources/
+src/test/
